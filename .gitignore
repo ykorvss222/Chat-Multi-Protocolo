@@ -7,15 +7,16 @@ nbbuild/
 dist/
 nbdist/
 
-# Configuraciones privadas de NetBeans
+# Configuraciones de NetBeans
 nbproject/private/
 nbproject/project.properties
 .nb-gradle/
 
-# Archivos de datos del usuario local (¡MUY IMPORTANTE!)
+# Archivos de datos del usuario local
 *.properties
 mi_perfil.properties
 mis_salas.properties
+/assets
 
-# Caché de imágenes generada por FrmChat.java
+# Caché de imágenes generadas por FrmChat.java
 cache_chat/
