@@ -58,20 +58,24 @@ La aplicación permite a los usuarios crear perfiles personalizados con avatares
 ## 📸 Evidencia de Funcionamiento
 
 ### 1. Inicio del Servidor
-> ![Consola del Servidor](temp)
-> *Muestra el servidor escuchando en el puerto 7777.*
+> ![Consola del Servidor](https://github.com/ykorvss222/Chat-Multi-Protocolo/blob/assets/capturas/servidoresinicio.gif)
 
-### 2. Registro de Usuario
-> ![Pantalla de Login](temp)
+> *Muestra el servidor escuchando en el puerto 7777, ambos TCP y UDP.*
+
+### 2. Registro y Personalización de Usuario
+> ![Pantalla de Login](https://github.com/ykorvss222/Chat-Multi-Protocolo/blob/assets/capturas/login.gif)
+
 > *Interfaz de acceso y selección de avatar.*
 
-### 3. Chat Grupal
-> ![Sala de Chat](temp)
-> *Conversación activa con múltiples usuarios y estilos de texto.*
+### 3. Sala de Chat
+> ![Sala de Chat](https://github.com/ykorvss222/Chat-Multi-Protocolo/blob/assets/capturas/pruebatexto.gif)
 
-### 4. Mensajes Privados
-> ![Mensaje Privado](temp)
-> *Ejemplo del comando `/msg` funcionando entre dos clientes.*
+> *Conversación con dos usuarios activos.*
+
+### 4. Mensajes Privados y Envío de Imágenes
+> ![Mensaje Privado y Fotos](https://github.com/ykorvss222/Chat-Multi-Protocolo/blob/assets/capturas/funcionestexto.gif)
+
+> *Ejemplo del comando `/msg` funcionando entre dos clientes y envío de imágenes.*
 
 ---
 
